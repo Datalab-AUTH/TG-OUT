@@ -1,5 +1,7 @@
 # TG-OUT
 Source code for the TG-OUT paper - (applies to TRIAGE paper as well)
+* TRIAGE: https://dl.acm.org/doi/abs/10.1145/3405962.3405998
+* TG-OUT: (under review)
 
 ## CREATE GRAPHS ##
 MongoDB with a large collection of tweets, the functions included create graphs (evolution of graphs) every 5 days (depending on the tweet's datetime) - returns all such graphs
