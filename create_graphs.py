@@ -12,7 +12,7 @@ from random import randint
 
 client = MongoClient('...')
 db = client['..']
-ekloges=db['.']
+col=db['.']
 
 #GLOBAL VARIABLE THAT DEFINES THE DELTA
 PER_DAYS=5
